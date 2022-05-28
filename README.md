@@ -80,7 +80,7 @@
     <img src="images/icons8-github-128.png" alt="github" />
   </a>
   <a href="https://www.linkedin.com/in/vienquocbinh/" target="blank">
-    <img src="images\icons8-facebook-128.png" alt="linkedin" />
+    <img src="images\icons8-linkedin-128.png" alt="linkedin" />
   </a>
   <!-- <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
