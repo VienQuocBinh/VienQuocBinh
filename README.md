@@ -51,7 +51,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?logo=visual-studio-code&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Apache NetBeans IDE" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?logo=apachenetBeansIDE&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Apache NetBeans IDE" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
