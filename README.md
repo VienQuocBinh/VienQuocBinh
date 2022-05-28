@@ -1,6 +1,6 @@
 <!-- Vien Quoc Binh -->
 <a href="#" target="_blank">
-  <img src="svg/binhdev.svg" width="1200" alt="binhdev-official" />
+  <img src="svg\binhdev.svg" width="1200" alt="binhdev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
