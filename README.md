@@ -97,6 +97,6 @@
 <!-- <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a> -->
-<div align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=monokai&myquote=hello)](https://github.com/piyushsuthar/github-readme-quotes)
+
