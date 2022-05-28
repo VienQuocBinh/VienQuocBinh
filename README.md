@@ -14,9 +14,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=239120" alt="CSharp logo" title="CSharp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.NET-c8eced?logo=.net&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-c8eced?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <br>
 <!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
