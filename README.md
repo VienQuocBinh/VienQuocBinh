@@ -103,5 +103,5 @@
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a> -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=monokai&myquote=Clear+mind+clear+code)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=monokai&myquote=Clear+mind+clear+code)
 
