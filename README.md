@@ -1,3 +1,9 @@
+<h2 align="center">✨Hello there, I'm Binh. Welcome to my Github profile✨</h2>
+<!-- Welcome gif -->
+<div align="center">
+  <img src="gif\welcome.gif" width:100%;height:0;padding-bottom:75%;/>
+</div>
+
 <!-- Vien Quoc Binh -->
 <a href="#" target="_blank">
   <img src="svg\binhdev.svg" width="1200" alt="binhdev-official" />
